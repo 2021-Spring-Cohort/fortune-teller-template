@@ -1,3 +1,5 @@
+
+
 https://wecancodeit.github.io/java-slides/exercises/intro/fortune-teller.html
 
 # Fortune Teller
